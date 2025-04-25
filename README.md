@@ -1,4 +1,4 @@
-# 国内ChatGPT-4中文版镜像网站整理（2025/4/21）【镜像网站合集】
+# 国内ChatGPT o4mini中文版镜像网站整理（2025/4/26）【镜像网站合集】
 
 给大家整理了一些国内中文版的，可以直接使用的 ChatGPT中文版镜像网站，各有优劣，我会在后面备注，大家可以直接用~
 
@@ -17,7 +17,7 @@ ChatGPT镜像网站（ChatGPT Mirror）是指将原始官网的内容复制并�
 ## 国内推荐的ChatGPT镜像网站
 
 1. [https://soruxgpt.top/282.html](https://soruxgpt.top/282.html)  
-   2023年3月国内第一批上线，一直稳定运行，支持 GPT4、4o 以及 o1，支持 MJ 绘画。
+   2023年3月国内第一批上线，一直稳定运行，支持 GPT4.5、4o 以及 o1，支持 MJ 绘画。
    
 
 ![class_81dc0824004dc52e754d6b430f765521](https://github.com/user-attachments/assets/f7573cd5-92cd-4400-a001-7ce56e72269f)
