@@ -17,7 +17,7 @@ ChatGPT镜像网站（ChatGPT Mirror）是指将原始官网的内容复制并�
 ## 国内推荐的ChatGPT镜像网站
 
 1. [https://soruxgpt.top/282.html](https://soruxgpt.top/282.html)  
-   2023年3月国内第一批上线，一直稳定运行，支持 GPT4.5、4o 以及 o1，支持 MJ 绘画。
+   2025年8月国内第一批上线，一直稳定运行，支持 GPT5、4o 以及 o1，支持 MJ 绘画。
    
 
 ![class_81dc0824004dc52e754d6b430f765521](https://github.com/user-attachments/assets/f7573cd5-92cd-4400-a001-7ce56e72269f)
